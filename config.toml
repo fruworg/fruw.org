@@ -20,10 +20,6 @@ name = "mail"
 url = "mailto:im@fruw.org"
 
 [[params.social]]
-name = "matrix"
-url = "//matrix.to/#/@im:fruw.org"
-
-[[params.social]]
 name = "tg"
 url = "//t.me/fruworg"
 
