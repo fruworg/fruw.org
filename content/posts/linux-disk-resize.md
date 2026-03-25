@@ -4,6 +4,12 @@ description: ext4
 date: 2024-12-10T13:57:00+01:00
 tags: [linux]
 ---
+## Рескан дисков
+
+```shell
+echo 1 | sudo tee /sys/class/block/sda/device/rescan
+```
+
 ## Расширение раздела
 
 `<disk>` - sda \
